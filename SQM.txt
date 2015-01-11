@@ -3,3 +3,5 @@ Software quality management
 10 credits
 
 shit module
+
+testing lp
